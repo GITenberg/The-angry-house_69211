@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '25412'
     url: http://www.gutenberg.org/2009/agents/25412
     wikipedia: https://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 69211-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Richard Rein
@@ -24,6 +27,8 @@ creator:
     gutenberg_agent_id: '33589'
     url: http://www.gutenberg.org/2009/agents/33589
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69211#The-angry-house
 gutenberg_issued: '2022-10-23'
 identifiers:
   gutenberg: '69211'
